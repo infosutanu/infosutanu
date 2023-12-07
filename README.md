@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm sutanu saha</h1>
-<h3 align="center">I am passionate about Robotics software and hardware engineering.So,I practice progamming,computer vision,machine learning,ROS,Deep Learning etc.</h3>
+<h3 align="center">I practice computer vision, machine learning, ROS, Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infosutanu&label=Profile%20views&color=0e75b6&style=flat" alt="infosutanu" /> </p>
-
-- 🔭 I’m currently working on **computer vision,ML,ROS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
